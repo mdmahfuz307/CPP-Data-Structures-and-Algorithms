@@ -538,11 +538,3 @@ Space Complexity = O(1)
 - Data to be stored is non-homogenous.
 - Reserves memory - Maybe array reserves a memory that will not be used in the future, but it takes a memory in our RAM. This also causes another problem when you add elements to an array and array begins to exceed its reserves capacity. In this case, the array allocates a larger region of memory and copies its elements into the new storage, this in turn, affects the performance.
 
-## Problems
-
-1. [Above average temperature](Problems/above_avg_temp.py)
-2. [Missing number](Problems/missing_num.py)
-3. [Two sum](Problems/two_sum.py)
-4. [Is unique](Problems/is_unique.py)
-5. [Permutation](Problems/permutation.py)
-6. [Rotate matrix by 90 deg](Problems/rotate_matrix.py)
