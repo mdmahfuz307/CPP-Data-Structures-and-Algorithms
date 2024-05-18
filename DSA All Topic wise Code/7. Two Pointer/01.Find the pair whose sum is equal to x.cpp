@@ -6,7 +6,7 @@ bool solve(int ar[],int x,int n)
 {
     int i =0;
     int j = n-1;
-    while(i<=j)
+    while(i<j)
     {
         int sum = ar[i]+ar[j];
         if(sum==x)return true;
