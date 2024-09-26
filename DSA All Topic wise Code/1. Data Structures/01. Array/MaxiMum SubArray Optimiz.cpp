@@ -1,3 +1,6 @@
+// Kadanes Algorithm
+// https://leetcode.com/problems/maximum-subarray/description/
+
 #include <bits/stdc++.h>
 using namespace std;
 
